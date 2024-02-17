@@ -18,7 +18,7 @@ Perkenalkan nama saya **Siti Aisah**.
 
 🎓 Saya pernah mendapatkan **beasiswa** untuk belajar di **Taiwan** selama empat tahun, termasuk satu tahun magang di **Shoufu University**.
 
-Jika kamu tertarik untuk berkenalan lebih lanjut dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/siti-aisah/)ku ya.
+Jika kamu tertarik untuk berkenalan lebih lanjut dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/siti-aisahrpl-9ab63b120/)ku ya.
 <p align="left">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
